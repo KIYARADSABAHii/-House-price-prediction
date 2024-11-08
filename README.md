@@ -1,2 +1,2 @@
 # -House-price-prediction
-در این پروژه از numpy,pandas, matplotlib, seaborn استفاده شده
+در این پروژه از numpy,pandas, matplotlib, seaborn استفاده شده.
